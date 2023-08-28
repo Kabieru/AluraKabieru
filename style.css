@@ -1,0 +1,50 @@
+header
+{
+    color: rgb(255, 110, 57);
+    background-color: rgba(238, 238, 238, 0.027);
+    display: flex ;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+body
+{
+    background-color: rgb(22, 22, 22);
+    color: rgb(255, 110, 57);
+  
+}
+
+footer
+{
+    color: white;
+    background-color: rgba(238, 238, 238, 0.027);
+    display: flex;
+    background-image: linear-gradient(to right, rgba(238, 238, 238, 0.027), orange);
+}
+
+main
+{
+    padding: 48px;
+}
+
+.walf
+{
+    width: 11%;
+    display: flex;
+    justify-content: center;
+}
+
+.walf-message
+{
+    display: flex;
+    align-self: center;
+    justify-content: space-around;
+    align-items: center;
+      padding: 0px 150px;
+}
+
+.forest
+{
+    width: 1336px;
+}
